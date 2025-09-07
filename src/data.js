@@ -30,19 +30,9 @@ export const autoridades = [
     "cargo": "Presidenta Tribunal Constitucional"
   },
   {
-    "image": "image7.jpg",
-    "name": "Señora Dorothy Pérez Gutiérrez",
-    "cargo": "Contralora General de la República"
-  },
-  {
     "image": "image8.jpg",
     "name": "Señor Ángel Valencia Vásquez",
     "cargo": "Fiscal Nacional"
-  },
-  {
-    "image": "image9.jpg",
-    "name": "Señora Rosanna Costa Costa",
-    "cargo": "Presidenta Banco Central"
   },
   {
     "image": "image10.jpg",
@@ -53,11 +43,6 @@ export const autoridades = [
     "image": "image11.jpg",
     "name": "Señor Álvaro Elizalde Soto",
     "cargo": "Ministerio de Interior"
-  },
-  {
-    "image": "image12.jpg",
-    "name": "Señor Alberto van Klaveren Stork",
-    "cargo": "Ministerio de Relaciones Exteriores"
   },
   {
     "image": "image13.jpg",
@@ -85,11 +70,6 @@ export const autoridades = [
     "cargo": "Ministerio de Economía, Fomento y Turismo"
   },
   {
-    "image": "image18.jpg",
-    "name": "Señora Javiera Toro Cáceres",
-    "cargo": "Ministerio de Desarrollo Social y Familia"
-  },
-  {
     "image": "image19.jpg",
     "name": "Señor Nicolas Cataldo Astorga",
     "cargo": "Ministerio de Educación"
@@ -103,11 +83,6 @@ export const autoridades = [
     "image": "image21.jpg",
     "name": "Señor Giorgio Boccardo Bosoni",
     "cargo": "Ministerio de Trabajo y Previsión Social"
-  },
-  {
-    "image": "image22.jpg",
-    "name": "Señora Jessica López Saffie",
-    "cargo": "Ministerio de Obras Públicas"
   },
   {
     "image": "image23.jpg",
@@ -135,16 +110,6 @@ export const autoridades = [
     "cargo": "Ministerio de Transportes y Telecomunicaciones"
   },
   {
-    "image": "image28.jpg",
-    "name": "Señor Francisco Figueroa Cerda",
-    "cargo": "Ministerio de Bienes Nacionales"
-  },
-  {
-    "image": "image29.jpg",
-    "name": "Señor Diego Pardow Lorenzo",
-    "cargo": "Ministerio de Energía"
-  },
-  {
     "image": "image30.jpg",
     "name": "Señora Maria Heloisa Rojas Corradi",
     "cargo": "Ministerio de Medio Ambiente"
@@ -165,11 +130,6 @@ export const autoridades = [
     "cargo": "Ministerio de las Culturas, las Artes y el Patrimonio"
   },
   {
-    "image": "image34.jpg",
-    "name": "Señor Aldo Valle Acevedo",
-    "cargo": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación"
-  },
-  {
     "image": "image35.jpg",
     "name": "Señor Luis Cordero Vega",
     "cargo": "Ministerio de Seguridad Pública"
@@ -178,31 +138,6 @@ export const autoridades = [
     "image": "image36.jpg",
     "name": "Monseñor Kurian Mathew Vayalunkal",
     "cargo": "Decano Cuerpo Diplomático Nunciatura Apostólica"
-  },
-  {
-    "image": "image37.jpg",
-    "name": "Excelentísima Señora Susanne Fries-Gaier",
-    "cargo": "Embajada de la República Federal de Alemania"
-  },
-  {
-    "image": "image38.jpg",
-    "name": "Excelentísima Señora Faiza Rahim Latrous",
-    "cargo": "Embajada de la República Argelina Democrática y Popular"
-  },
-  {
-    "image": "image39.jpg",
-    "name": "Excelentísimo Señor José Marcelo Faurie",
-    "cargo": "Embajada de la República de Argentina"
-  },
-  {
-    "image": "image40.jpg",
-    "name": "Excelentísimo Señor Andrew Barritt Martin",
-    "cargo": "Embajada de Australia"
-  },
-  {
-    "image": "image41.jpg",
-    "name": "Excelentísimo Señor Werner Senfter",
-    "cargo": "Embajada de la República de Austria"
   },
   {
     "image": "image42.jpg",
@@ -225,16 +160,6 @@ export const autoridades = [
     "cargo": "Embajada de la República de Colombia"
   },
   {
-    "image": "image46.jpg",
-    "name": "Excelentísimo Señor Hak Jae Kim",
-    "cargo": "Embajada de la República de Corea"
-  },
-  {
-    "image": "image47.jpg",
-    "name": "Excelentísima Señora Adriana Murillo Ruin",
-    "cargo": "Embajada de la República de Costa Rica"
-  },
-  {
     "image": "image48.jpg",
     "name": "Excelentísima Señora Mira Martinec",
     "cargo": "Embajada de la República de Croacia"
@@ -243,11 +168,6 @@ export const autoridades = [
     "image": "image49.jpg",
     "name": "Excelentísima Señora Mercedes Vicente Sotolongo",
     "cargo": "Embajada de la República de Cuba"
-  },
-  {
-    "image": "image50.jpg",
-    "name": "Excelentísimo Señor Henrik Bramsen Hahn",
-    "cargo": "Embajada Real de Dinamarca"
   },
   {
     "image": "image51.jpg",
@@ -270,11 +190,6 @@ export const autoridades = [
     "cargo": "Embajada de los Emiratos Árabes Unidos"
   },
   {
-    "image": "image55.jpg",
-    "name": "Excelentísimo Señor Rafael Garranzo García",
-    "cargo": "Embajada del Reino de España"
-  },
-  {
     "image": "image56.jpg",
     "name": "Excelentísimo Señor Vladimir Belinsky",
     "cargo": "Embajada de la Federación de Rusia"
@@ -290,16 +205,6 @@ export const autoridades = [
     "cargo": "Embajada de la República de Finlandia"
   },
   {
-    "image": "image59.jpg",
-    "name": "Excelentísimo Señor Cyrille Rogeau",
-    "cargo": "Embajada de Francia"
-  },
-  {
-    "image": "image60.jpg",
-    "name": "Excelentísimo Señor Nikolaos Piperigkos",
-    "cargo": "Embajada de Grecia"
-  },
-  {
     "image": "image61.jpg",
     "name": "Excelentísimo Señor Wendel Estuardo Arriaza Ayala",
     "cargo": "Embajada de la República de Guatemala"
@@ -308,11 +213,6 @@ export const autoridades = [
     "image": "image62.jpg",
     "name": "Excelentísimo Señor Hervé Saint-Louis",
     "cargo": "Embajada de la República de Haití"
-  },
-  {
-    "image": "image63.jpg",
-    "name": "Excelentísima Señora Linda Redondo Marini",
-    "cargo": "Embajada de la República de Honduras"
   },
   {
     "image": "image64.jpg",
@@ -333,11 +233,6 @@ export const autoridades = [
     "image": "image67.jpg",
     "name": "Excelentísimo Señor",
     "cargo": "Embajada del Estado de Israel"
-  },
-  {
-    "image": "image68.jpg",
-    "name": "Excelentísima Señora Valeria Biagiotti",
-    "cargo": "Embajada de la República Italiana"
   },
   {
     "image": "image69.jpg",
@@ -375,24 +270,9 @@ export const autoridades = [
     "cargo": "Embajada de la Soberana Orden Militar de Malta"
   },
   {
-    "image": "image76.jpg",
-    "name": "Excelentísima Señora Daniela Rigoli",
-    "cargo": "Embajada de Nueva Zelandia"
-  },
-  {
-    "image": "image77.jpg",
-    "name": "Excelentísima Señora Elke Paula Ida María Schaapveld",
-    "cargo": "Embajada Real de los Países Bajos"
-  },
-  {
     "image": "image78.jpg",
     "name": "Excelentísima Señora Vera Baboun",
     "cargo": "Embajada del Estado de Palestina"
-  },
-  {
-    "image": "image79.jpg",
-    "name": "Excelentísimo Señor Antonio Rivas Palacios",
-    "cargo": "Embajada de la República del Paraguay"
   },
   {
     "image": "image80.jpg",
@@ -405,19 +285,9 @@ export const autoridades = [
     "cargo": "Embajada Real de Tailandia"
   },
   {
-    "image": "image82.jpg",
-    "name": "Excelentísima Señora María Helena de Oliveira Bicho",
-    "cargo": "Embajada de la República Portuguesa"
-  },
-  {
     "image": "image83.jpg",
     "name": "Excelentísima Señora Louise de Sousa",
     "cargo": "Embajada del Reino Unido de Gran Bretaña e Irlanda del Norte"
-  },
-  {
-    "image": "image84.jpg",
-    "name": "Excelentísimo Señor Pavel Bechny",
-    "cargo": "Embajada de la República Checa"
   },
   {
     "image": "image85.jpg",
@@ -450,11 +320,6 @@ export const autoridades = [
     "cargo": "Embajada del Reino de Suecia"
   },
   {
-    "image": "image91.jpg",
-    "name": "Excelentísimo Señor Markus Dutly",
-    "cargo": "Embajada de la Confederación Suiza"
-  },
-  {
     "image": "image92.jpg",
     "name": "Excelentísimo Señor Ahmet Ihsan Kiziltan",
     "cargo": "Embajada de la República de Turquía"
@@ -463,11 +328,6 @@ export const autoridades = [
     "image": "image93.jpg",
     "name": "Excelentísimo Señor Yurii Diudin",
     "cargo": "Embajada de Ucrania"
-  },
-  {
-    "image": "image94.jpg",
-    "name": "Excelentísima Señora Ana Inés Rocanova Rodríguez",
-    "cargo": "Embajada de la República Oriental del Uruguay"
   },
   {
     "image": "image95.jpg",
@@ -525,11 +385,6 @@ export const autoridades = [
     "cargo": "Senadora de la República"
   },
   {
-    "image": "image106.jpg",
-    "name": "Señor Pedro Araya Guerrero",
-    "cargo": "Senador de la República"
-  },
-  {
     "image": "image107.jpg",
     "name": "Señor Karim Bianchi Retamales",
     "cargo": "Senador de la República"
@@ -580,11 +435,6 @@ export const autoridades = [
     "cargo": "Senador de la República"
   },
   {
-    "image": "image117.jpg",
-    "name": "Señor José Miguel Durana Semir",
-    "cargo": "Senador de la República"
-  },
-  {
     "image": "image118.jpg",
     "name": "Señora Luz Ebensperger Orrego",
     "cargo": "Senadora de la República"
@@ -597,11 +447,6 @@ export const autoridades = [
   {
     "image": "image120.jpg",
     "name": "Señor Fidel Espinoza Sandoval",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image121.jpg",
-    "name": "Señor Iván Flores García",
     "cargo": "Senador de la República"
   },
   {
@@ -650,18 +495,8 @@ export const autoridades = [
     "cargo": "Senador de la República"
   },
   {
-    "image": "image131.jpg",
-    "name": "Señor Carlos Kuschel Silva",
-    "cargo": "Senador de la República"
-  },
-  {
     "image": "image132.jpg",
     "name": "Señor Juan Ignacio Latorre Riveros",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image133.jpg",
-    "name": "Señor Javier Macaya Danus",
     "cargo": "Senador de la República"
   },
   {
@@ -685,11 +520,6 @@ export const autoridades = [
     "cargo": "Senadora de la República"
   },
   {
-    "image": "image138.jpg",
-    "name": "Señora Claudia Pascual Grau",
-    "cargo": "Senadora de la República"
-  },
-  {
     "image": "image139.jpg",
     "name": "Señor Rafael Prohens Espinosa",
     "cargo": "Senador de la República"
@@ -705,28 +535,13 @@ export const autoridades = [
     "cargo": "Senador de la República"
   },
   {
-    "image": "image142.jpg",
-    "name": "Señor Kenneth Pugh Olavarría",
-    "cargo": "Senador de la República"
-  },
-  {
     "image": "image143.jpg",
     "name": "Señora Ximena Rincón González",
     "cargo": "Senadora de la República"
   },
   {
-    "image": "image144.jpg",
-    "name": "Señor Gastón Saavedra Chandía",
-    "cargo": "Senador de la República"
-  },
-  {
     "image": "image145.jpg",
     "name": "Señor David Sandoval Plaza",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image146.jpg",
-    "name": "Señor Gustavo Sanhueza Dueñas",
     "cargo": "Senador de la República"
   },
   {
@@ -737,11 +552,6 @@ export const autoridades = [
   {
     "image": "image148.jpg",
     "name": "Señor Jorge Soria Quiroga",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image149.jpg",
-    "name": "Señor Enrique Van Rysselberghe Herrera",
     "cargo": "Senador de la República"
   },
   {
@@ -805,11 +615,6 @@ export const autoridades = [
     "cargo": "Diputada de La República"
   },
   {
-    "image": "image162.jpg",
-    "name": "Señora Chiara Barchiesi Chávez",
-    "cargo": "Diputada de La República"
-  },
-  {
     "image": "image163.jpg",
     "name": "Señor Boris Barrera Moreno",
     "cargo": "Diputado de la República"
@@ -822,11 +627,6 @@ export const autoridades = [
   {
     "image": "image165.jpg",
     "name": "Señor Arturo Barrios Oteiza",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image166.jpg",
-    "name": "Señor Miguel Ángel Becker Alvear",
     "cargo": "Diputado de la República"
   },
   {
@@ -955,31 +755,6 @@ export const autoridades = [
     "cargo": "Diputada de La República"
   },
   {
-    "image": "image192.jpg",
-    "name": "Señor Eduardo Cornejo Lagos",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image193.jpg",
-    "name": "Señor Luis Alberto Cuello Peña y Lillo",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image194.jpg",
-    "name": "Señor Gonzalo De la Carrera Correa",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image195.jpg",
-    "name": "Señora Catalina Del Real Mihovilovic",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image196.jpg",
-    "name": "Señora Viviana Delgado Riquelme",
-    "cargo": "Diputada de La República"
-  },
-  {
     "image": "image197.jpg",
     "name": "Señor Felipe Donoso Castro",
     "cargo": "Diputado de la República"
@@ -990,18 +765,8 @@ export const autoridades = [
     "cargo": "Diputado de la República"
   },
   {
-    "image": "image199.jpg",
-    "name": "Señor Eduardo Durán Salinas",
-    "cargo": "Diputado de la República"
-  },
-  {
     "image": "image200.jpg",
     "name": "Señora Camila Flores Oporto",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image201.jpg",
-    "name": "Señora Lorena Fries Monleón",
     "cargo": "Diputada de La República"
   },
   {
@@ -1035,11 +800,6 @@ export const autoridades = [
     "cargo": "Diputado de la República"
   },
   {
-    "image": "image208.jpg",
-    "name": "Señora Carmen Hertz Cádiz",
-    "cargo": "Diputada de La República"
-  },
-  {
     "image": "image209.jpg",
     "name": "Señor Mauro González Villarroel",
     "cargo": "Diputado de la República"
@@ -1070,16 +830,6 @@ export const autoridades = [
     "cargo": "Diputada de La República"
   },
   {
-    "image": "image215.jpg",
-    "name": "Señor Andrés Jouannet Valderrama",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image216.jpg",
-    "name": "Señor Harry Jürgensen Rundshagen",
-    "cargo": "Diputado de la República"
-  },
-  {
     "image": "image217.jpg",
     "name": "Señor Johannes Kaiser Barents-Von Hohenhagen",
     "cargo": "Diputado de la República"
@@ -1095,18 +845,8 @@ export const autoridades = [
     "cargo": "Diputada de La República"
   },
   {
-    "image": "image220.jpg",
-    "name": "Señor Tomás Lagomarsino Guzmán",
-    "cargo": "Diputado de la República"
-  },
-  {
     "image": "image221.jpg",
     "name": "Señor Joaquín Lavín León",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image222.jpg",
-    "name": "Señor Henry Leal Bizama",
     "cargo": "Diputado de la República"
   },
   {
@@ -1130,11 +870,6 @@ export const autoridades = [
     "cargo": "Diputado de la República"
   },
   {
-    "image": "image227.jpg",
-    "name": "Señor Luis Malla Valenzuela",
-    "cargo": "Diputado de la República"
-  },
-  {
     "image": "image228.jpg",
     "name": "Señor Daniel Manouchehri Lobos",
     "cargo": "Diputado de la República"
@@ -1148,21 +883,6 @@ export const autoridades = [
     "image": "image230.jpg",
     "name": "Señora Carolina Marzán Pinto",
     "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image231.jpg",
-    "name": "Señor Christian Matheson Villán",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image232.jpg",
-    "name": "Señora Karen Medina Vásquez",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image233.jpg",
-    "name": "Señor Cosme Mellado Pino",
-    "cargo": "Diputado de la República"
   },
   {
     "image": "image234.jpg",
@@ -1248,11 +968,6 @@ export const autoridades = [
     "image": "image250.jpg",
     "name": "Señora Ericka Ñanco Vásquez",
     "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image251.jpg",
-    "name": "Señor Mauricio Ojeda Rebolledo",
-    "cargo": "Diputado de la República"
   },
   {
     "image": "image252.jpg",
@@ -1345,24 +1060,9 @@ export const autoridades = [
     "cargo": "Diputada de La República"
   },
   {
-    "image": "image270.jpg",
-    "name": "Señora Camila Rojas Valderrama",
-    "cargo": "Diputada de La República"
-  },
-  {
     "image": "image271.jpg",
     "name": "Señor Agustín Romero Leiva",
     "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image272.jpg",
-    "name": "Señor Leonidas Romero Sáez",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image273.jpg",
-    "name": "Señora Natalia Romero Talguia",
-    "cargo": "Diputada de La República"
   },
   {
     "image": "image274.jpg",
@@ -1372,11 +1072,6 @@ export const autoridades = [
   {
     "image": "image275.jpg",
     "name": "Señor Jaime Sáez Quiroz",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image276.jpg",
-    "name": "Señor Jorge Saffirio Espinoza",
     "cargo": "Diputado de la República"
   },
   {
@@ -1407,16 +1102,6 @@ export const autoridades = [
   {
     "image": "image282.jpg",
     "name": "Señor Diego Schalper Sepúlveda",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image283.jpg",
-    "name": "Señora Emilia Schneider Videla",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image284.jpg",
-    "name": "Señor Stephan Schubert Rubio",
     "cargo": "Diputado de la República"
   },
   {
@@ -1453,11 +1138,6 @@ export const autoridades = [
     "image": "image291.jpg",
     "name": "Señor Hotuiti Teao Drago",
     "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image292.jpg",
-    "name": "Señora Carolina Tello Rojas",
-    "cargo": "Diputada de La República"
   },
   {
     "image": "image293.jpg",
@@ -1535,29 +1215,9 @@ export const autoridades = [
     "cargo": "Subsecretaria de Relaciones Exteriores"
   },
   {
-    "image": "image308.jpg",
-    "name": "Señor Claudia Sanhueza Riveros",
-    "cargo": "Subsecretario de Relaciones Económicas Internacionales"
-  },
-  {
-    "image": "image309.jpg",
-    "name": "Señora Francisca Perales Flores",
-    "cargo": "Subsecretaria de Desarrollo Regional y Administrativo"
-  },
-  {
     "image": "image310.jpg",
     "name": "Señora Carolina Leitao Álvarez-Salamanca",
     "cargo": "Subsecretaría de Prevención del Delito"
-  },
-  {
-    "image": "image311.jpg",
-    "name": "Señor Ricardo Montero Allende",
-    "cargo": "Subsecretario de Defensa"
-  },
-  {
-    "image": "image312.jpg",
-    "name": "Señor Galo Eidelstein Silber",
-    "cargo": "Subsecretario de las Fuerzas Armadas"
   },
   {
     "image": "image313.jpg",
@@ -1575,39 +1235,14 @@ export const autoridades = [
     "cargo": "Subsecretario de la Secretaría General de Gobierno"
   },
   {
-    "image": "image316.jpg",
-    "name": "Señora Javiera Petersen Muga",
-    "cargo": "Subsecretaria de Economía y Empresas de Menor Tamaño"
-  },
-  {
     "image": "image317.jpg",
     "name": "Señor Julio Salas Gutiérrez",
     "cargo": "Subsecretario de Pesca y Acuicultura"
   },
   {
-    "image": "image318.jpg",
-    "name": "Señora Verónica Pardo Lagos",
-    "cargo": "Subsecretaria de Turismo"
-  },
-  {
-    "image": "image319.jpg",
-    "name": "Señora Paula Poblete Maureira",
-    "cargo": "Subsecretaria de Evaluación Social"
-  },
-  {
     "image": "image320.jpg",
     "name": "Señora Francisca Gallegos Jara",
     "cargo": "Subsecretaria de Servicios Sociales"
-  },
-  {
-    "image": "image321.jpg",
-    "name": "Señora Verónica Silva Villalobos",
-    "cargo": "Subsecretaria de la Niñez"
-  },
-  {
-    "image": "image322.jpg",
-    "name": "Señora Alejandra Arratia Martínez",
-    "cargo": "Subsecretaria de Educación"
   },
   {
     "image": "image323.jpg",
@@ -1643,11 +1278,6 @@ export const autoridades = [
     "image": "image329.jpg",
     "name": "Señor Danilo Núñez Izquierdo",
     "cargo": "Subsecretario de Obras Públicas"
-  },
-  {
-    "image": "image330.jpg",
-    "name": "Señora Andrea Albagli Iruretagoyena",
-    "cargo": "Subsecretario de Salud Pública"
   },
   {
     "image": "image331.jpg",
@@ -1705,11 +1335,6 @@ export const autoridades = [
     "cargo": "Subsecretaria de la Mujer y Equidad de Género"
   },
   {
-    "image": "image342.jpg",
-    "name": "Señora Jimena Jara Quilodrán",
-    "cargo": "Subsecretaria de las Culturas y las Artes"
-  },
-  {
     "image": "image343.jpg",
     "name": "Señora Carolina Pérez Dattari",
     "cargo": "Subsecretaria de Patrimonio Cultural"
@@ -1728,11 +1353,6 @@ export const autoridades = [
     "image": "image346.jpg",
     "name": "Señor Gonzalo Durán Baronti",
     "cargo": "Delegado Presidencia de la Región Metropolitana"
-  },
-  {
-    "image": "image347.jpg",
-    "name": "Señor Mario Desbordes Jiménez",
-    "cargo": "Ilustre Municipalidad de Santiago"
   },
   {
     "image": "image348.jpg",
@@ -1768,11 +1388,6 @@ export const autoridades = [
     "image": "image354.jpg",
     "name": "Señor Matías Toledo Herrera",
     "cargo": "Alcalde Ilustre Municipalidad de Puente Alto"
-  },
-  {
-    "image": "image355.jpg",
-    "name": "Señor Daniel Reyes Morales",
-    "cargo": "Alcalde Ilustre Municipalidad de La Florida"
   },
   {
     "image": "image356.jpg",
