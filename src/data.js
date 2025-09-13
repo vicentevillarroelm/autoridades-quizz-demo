@@ -15,29 +15,9 @@ export const autoridades = [
     "cargo": "Presidente Corte Suprema de Justicia"
   },
   {
-    "image": "image4.jpg",
-    "name": "Monseñor Fernando Chomalí Garib",
-    "cargo": "Arzobispo de Santiago"
-  },
-  {
-    "image": "image5.jpg",
-    "name": "Señor José Miguel Castro Bascuñán",
-    "cargo": "Presidente Cámara de Diputados"
-  },
-  {
     "image": "image6.jpg",
     "name": "Señora Daniela Marzi Muñoz",
     "cargo": "Presidenta Tribunal Constitucional"
-  },
-  {
-    "image": "image8.jpg",
-    "name": "Señor Ángel Valencia Vásquez",
-    "cargo": "Fiscal Nacional"
-  },
-  {
-    "image": "image10.jpg",
-    "name": "Señora Pamela Figueroa Rubio",
-    "cargo": "Presidenta Servicio Electoral"
   },
   {
     "image": "image11.jpg",
@@ -48,11 +28,6 @@ export const autoridades = [
     "image": "image13.jpg",
     "name": "Señora Adriana Delpiano Puelma",
     "cargo": "Ministerio de Defensa Nacional"
-  },
-  {
-    "image": "image14.jpg",
-    "name": "Señor Nicolás Grau Veloso",
-    "cargo": "Ministerio de Hacienda"
   },
   {
     "image": "image15.jpg",
@@ -85,14 +60,14 @@ export const autoridades = [
     "cargo": "Ministerio de Trabajo y Previsión Social"
   },
   {
+    "image": "image22.jpg",
+    "name": "Señora Jessica López Saffie",
+    "cargo": "Ministerio de Obras Públicas"
+  },
+  {
     "image": "image23.jpg",
     "name": "Señora Ximena Aguilera Sanhueza",
     "cargo": "Ministerio de Salud"
-  },
-  {
-    "image": "image24.jpg",
-    "name": "Señor Carlos Montes Cisternas",
-    "cargo": "Ministerio de la Vivienda y Urbanismo"
   },
   {
     "image": "image25.jpg",
@@ -103,11 +78,6 @@ export const autoridades = [
     "image": "image26.jpg",
     "name": "Señora Aurora Williams Baussa",
     "cargo": "MInisterio de Minería"
-  },
-  {
-    "image": "image27.jpg",
-    "name": "Señor Juan Carlos Muñoz Abogabir",
-    "cargo": "Ministerio de Transportes y Telecomunicaciones"
   },
   {
     "image": "image30.jpg",
@@ -125,11 +95,6 @@ export const autoridades = [
     "cargo": "Ministerio de la Mujer y Equidad de Género"
   },
   {
-    "image": "image33.jpg",
-    "name": "Señora Carolina Arredondo Marzán",
-    "cargo": "Ministerio de las Culturas, las Artes y el Patrimonio"
-  },
-  {
     "image": "image35.jpg",
     "name": "Señor Luis Cordero Vega",
     "cargo": "Ministerio de Seguridad Pública"
@@ -140,54 +105,9 @@ export const autoridades = [
     "cargo": "Decano Cuerpo Diplomático Nunciatura Apostólica"
   },
   {
-    "image": "image42.jpg",
-    "name": "Excelentísimo Señor Cristian de Lannoy",
-    "cargo": "Embajada del Reino de Bélgica"
-  },
-  {
-    "image": "image43.jpg",
-    "name": "Excelentísimo Señor Paulo Soares Pacheco",
-    "cargo": "Embajada de la República Federativa de Brasil"
-  },
-  {
-    "image": "image44.jpg",
-    "name": "Excelentísima Señora Karolina Linda Guay",
-    "cargo": "Embajada de Canadá"
-  },
-  {
-    "image": "image45.jpg",
-    "name": "Excelentísimo Señor Sebastián Guanumen Parra",
-    "cargo": "Embajada de la República de Colombia"
-  },
-  {
-    "image": "image48.jpg",
-    "name": "Excelentísima Señora Mira Martinec",
-    "cargo": "Embajada de la República de Croacia"
-  },
-  {
-    "image": "image49.jpg",
-    "name": "Excelentísima Señora Mercedes Vicente Sotolongo",
-    "cargo": "Embajada de la República de Cuba"
-  },
-  {
     "image": "image51.jpg",
     "name": "Excelentísima Señora Lotty Andrade Abdo",
     "cargo": "Embajada de la República del Ecuador"
-  },
-  {
-    "image": "image52.jpg",
-    "name": "Excelentísimo Señor Maher Almahdy Ata Alsayed",
-    "cargo": "Embajada de la República Árabe de Egipto"
-  },
-  {
-    "image": "image53.jpg",
-    "name": "Excelentísimo Señor Mauricio Antonio Peñate Guzmán",
-    "cargo": "Embajada de la República de El Salvador"
-  },
-  {
-    "image": "image54.jpg",
-    "name": "Excelentísimo Señor Mohammed Saeed Salem Alneyadi",
-    "cargo": "Embajada de los Emiratos Árabes Unidos"
   },
   {
     "image": "image56.jpg",
@@ -195,34 +115,9 @@ export const autoridades = [
     "cargo": "Embajada de la Federación de Rusia"
   },
   {
-    "image": "image57.jpg",
-    "name": "Excelentísima Señora Celeste Vinzon-Balatbat",
-    "cargo": "Embajada de la República de Filipinas"
-  },
-  {
-    "image": "image58.jpg",
-    "name": "Excelentísima Señora Johanna Kotkajarvi",
-    "cargo": "Embajada de la República de Finlandia"
-  },
-  {
-    "image": "image61.jpg",
-    "name": "Excelentísimo Señor Wendel Estuardo Arriaza Ayala",
-    "cargo": "Embajada de la República de Guatemala"
-  },
-  {
-    "image": "image62.jpg",
-    "name": "Excelentísimo Señor Hervé Saint-Louis",
-    "cargo": "Embajada de la República de Haití"
-  },
-  {
     "image": "image64.jpg",
     "name": "Excelentísima Señora Edit Bucsi-Szabo",
     "cargo": "Embajada de Hungría"
-  },
-  {
-    "image": "image65.jpg",
-    "name": "Excelentísima Señora Abhilasha Joshi",
-    "cargo": "Embajada de la República de la India"
   },
   {
     "image": "image66.jpg",
@@ -230,24 +125,9 @@ export const autoridades = [
     "cargo": "Embajada de Irlanda"
   },
   {
-    "image": "image67.jpg",
-    "name": "Excelentísimo Señor",
-    "cargo": "Embajada del Estado de Israel"
-  },
-  {
     "image": "image69.jpg",
     "name": "Excelentísima Señora Ito Takako",
     "cargo": "Embajada del Japón"
-  },
-  {
-    "image": "image70.jpg",
-    "name": "Excelentísimo Señor Mohammad Ahmad Suliman Al- Shabbar",
-    "cargo": "Embajada del Reino Hachemita de Jordania"
-  },
-  {
-    "image": "image71.jpg",
-    "name": "Excelentísima Señora",
-    "cargo": "Embajada de la República del Líbano"
   },
   {
     "image": "image72.jpg",
@@ -255,19 +135,9 @@ export const autoridades = [
     "cargo": "Embajada del Reino de Marruecos"
   },
   {
-    "image": "image73.jpg",
-    "name": "Excelentísima Señora Laura Moreno Rodríguez",
-    "cargo": "Embajada de los E s tados Unidos Mexicanos"
-  },
-  {
     "image": "image74.jpg",
     "name": "Excelentísimo Señor Per Anders Pollen Nilsen",
     "cargo": "Real Embajada de Noruega"
-  },
-  {
-    "image": "image75.jpg",
-    "name": "Excelentísimo Señor Octavio Errázuriz Guilisasti",
-    "cargo": "Embajada de la Soberana Orden Militar de Malta"
   },
   {
     "image": "image78.jpg",
@@ -285,19 +155,9 @@ export const autoridades = [
     "cargo": "Embajada Real de Tailandia"
   },
   {
-    "image": "image83.jpg",
-    "name": "Excelentísima Señora Louise de Sousa",
-    "cargo": "Embajada del Reino Unido de Gran Bretaña e Irlanda del Norte"
-  },
-  {
     "image": "image85.jpg",
     "name": "Excelentísimo Señor Juan Alberto Cohen Sander",
     "cargo": "Embajada de la República Dominicana"
-  },
-  {
-    "image": "image86.jpg",
-    "name": "Excelentísimo Señor Niu Qingbao",
-    "cargo": "Embajada de la República Popular de China"
   },
   {
     "image": "image87.jpg",
@@ -315,11 +175,6 @@ export const autoridades = [
     "cargo": "Embajada de Serbia"
   },
   {
-    "image": "image90.jpg",
-    "name": "Excelentísimo Señor Tomas Wiklund",
-    "cargo": "Embajada del Reino de Suecia"
-  },
-  {
     "image": "image92.jpg",
     "name": "Excelentísimo Señor Ahmet Ihsan Kiziltan",
     "cargo": "Embajada de la República de Turquía"
@@ -328,11 +183,6 @@ export const autoridades = [
     "image": "image93.jpg",
     "name": "Excelentísimo Señor Yurii Diudin",
     "cargo": "Embajada de Ucrania"
-  },
-  {
-    "image": "image95.jpg",
-    "name": "Excelentísimo Señor Nguyen Viet Cuong",
-    "cargo": "Embajada de la República Socialista de Vietnam"
   },
   {
     "image": "image96.jpg",
@@ -365,38 +215,8 @@ export const autoridades = [
     "cargo": "Jefe Estado Mayor Conjunto de las Fuerzas Armadas"
   },
   {
-    "image": "image102.jpg",
-    "name": "Señor Ricardo Lagos Weber",
-    "cargo": "Vicepresidente Senado"
-  },
-  {
-    "image": "image103.jpg",
-    "name": "Señor Gaspar Rivas Sánchez",
-    "cargo": "Primer Vicepresidente Cámara de Diputados"
-  },
-  {
-    "image": "image104.jpg",
-    "name": "Señor Eric Aedo Jeldres",
-    "cargo": "Segundo Vicepresidente Cámara de Diputados"
-  },
-  {
-    "image": "image105.jpg",
-    "name": "Señora Carmen Aravena Acuña",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image107.jpg",
-    "name": "Señor Karim Bianchi Retamales",
-    "cargo": "Senador de la República"
-  },
-  {
     "image": "image108.jpg",
     "name": "Señora Fabiola Campillai Rojas",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image109.jpg",
-    "name": "Señora Loreto Carvajal Ambiado",
     "cargo": "Senadora de la República"
   },
   {
@@ -405,98 +225,8 @@ export const autoridades = [
     "cargo": "Senador de la República"
   },
   {
-    "image": "image111.jpg",
-    "name": "Señor Juan Luis Castro González",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image112.jpg",
-    "name": "Señor Francisco Chahuán Chahuán",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image113.jpg",
-    "name": "Señor Juan Antonio Coloma Correa",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image114.jpg",
-    "name": "Señor Luciano Cruz- Coke Carvallo",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image115.jpg",
-    "name": "Señor Tomás De Rementería Venegas",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image116.jpg",
-    "name": "Señor Alfonso De Urresti Longton",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image118.jpg",
-    "name": "Señora Luz Ebensperger Orrego",
-    "cargo": "Senadora de la República"
-  },
-  {
     "image": "image119.jpg",
     "name": "Señor Rojo Edwards Silva",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image120.jpg",
-    "name": "Señor Fidel Espinoza Sandoval",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image122.jpg",
-    "name": "Señor Sergio Gahona Salazar",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image123.jpg",
-    "name": "Señor José García Ruminot",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image124.jpg",
-    "name": "Señor Rodrigo Galilea Vial",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image125.jpg",
-    "name": "Señor Francisco Huenchumilla Jaramillo",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image126.jpg",
-    "name": "Señora María José Gatica Bertin",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image127.jpg",
-    "name": "Señor José Miguel Insulza Salinas",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image128.jpg",
-    "name": "Señor Felipe Kast Sommerhoff",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image129.jpg",
-    "name": "Señor Sebastián Keitel Bianchi",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image130.jpg",
-    "name": "Señor Alejandro Kusanovic Glusevic",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image132.jpg",
-    "name": "Señor Juan Ignacio Latorre Riveros",
     "cargo": "Senador de la República"
   },
   {
@@ -505,273 +235,8 @@ export const autoridades = [
     "cargo": "Senador de la República"
   },
   {
-    "image": "image135.jpg",
-    "name": "Señor Daniel Núñez Arancibia",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image136.jpg",
-    "name": "Señora Paulina Núñez Urrutia",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image137.jpg",
-    "name": "Señora Ximena Órdenes Neira",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image139.jpg",
-    "name": "Señor Rafael Prohens Espinosa",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image140.jpg",
-    "name": "Señora Yasna Provoste Campillay",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image141.jpg",
-    "name": "Señor Jaime Quintana Leal",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image143.jpg",
-    "name": "Señora Ximena Rincón González",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image145.jpg",
-    "name": "Señor David Sandoval Plaza",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image147.jpg",
-    "name": "Señora Alejandra Sepúlveda Orbenes",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image148.jpg",
-    "name": "Señor Jorge Soria Quiroga",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image150.jpg",
-    "name": "Señor Esteban Velásquez Núñez",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image151.jpg",
-    "name": "Señora Paulina Vodanovic Rojas",
-    "cargo": "Senadora de la República"
-  },
-  {
-    "image": "image152.jpg",
-    "name": "Señor Matías Walker Prieto",
-    "cargo": "Senador de la República"
-  },
-  {
-    "image": "image153.jpg",
-    "name": "Señora María Candelaria Acevedo Sáez",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image154.jpg",
-    "name": "Señora Yovana Ahumada Palma",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image155.jpg",
-    "name": "Señor Jorge Alessandri Vergara",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image156.jpg",
-    "name": "Señor René Alinco Bustos",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image157.jpg",
-    "name": "Señor Jaime Araya Guerrero",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image158.jpg",
-    "name": "Señor Cristian Araya Lerdo de Tejada",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image159.jpg",
-    "name": "Señora Mónica Arce Castro",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image160.jpg",
-    "name": "Señor Roberto Arroyo Muñoz",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image161.jpg",
-    "name": "Señora Danisa Astudillo Peiretti",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image163.jpg",
-    "name": "Señor Boris Barrera Moreno",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image164.jpg",
-    "name": "Señor Héctor Barría Angulo",
-    "cargo": "Diputado de la República"
-  },
-  {
     "image": "image165.jpg",
     "name": "Señor Arturo Barrios Oteiza",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image167.jpg",
-    "name": "Señora María Francisca Bello Campos",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image168.jpg",
-    "name": "Señor Juan Carlos Beltrán Silva",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image169.jpg",
-    "name": "Señor Gustavo Benavente Vergara",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image170.jpg",
-    "name": "Señor Bernardo Berger Fett",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image171.jpg",
-    "name": "Señor Alejandro Bernales Maldonado",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image172.jpg",
-    "name": "Señor Carlos Bianchi Chelech",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image173.jpg",
-    "name": "Señor Sergio Bobadilla Muñoz",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image174.jpg",
-    "name": "Señor Fernando Bórquez Montecinos",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image175.jpg",
-    "name": "Señora Ana María Bravo Castro",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image176.jpg",
-    "name": "Señora Marta Bravo Salinas",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image177.jpg",
-    "name": "Señor Jorge Brito Hasbún",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image178.jpg",
-    "name": "Señor Félix Bugueño Sotelo",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image179.jpg",
-    "name": "Señor Miguel Ángel Calisto Águila",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image180.jpg",
-    "name": "Señor Felipe Camaño Cárdenas",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image181.jpg",
-    "name": "Señora Karol Cariola Oliva",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image182.jpg",
-    "name": "Señor Álvaro Carter Fernández",
-    "cargo": "Diputado de La República"
-  },
-  {
-    "image": "image183.jpg",
-    "name": "Señora Nathalie Castillo Rojas",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image184.jpg",
-    "name": "Señor Roberto Celedón Fernández",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image185.jpg",
-    "name": "Señor Andrés Celis Montt",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image186.jpg",
-    "name": "Señora Daniella Cicardini Milla",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image187.jpg",
-    "name": "Señora Sofía Cid Versalovic",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image188.jpg",
-    "name": "Señor Ricardo Cifuentes Lillo",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image189.jpg",
-    "name": "Señor Juan Antonio Coloma Álamos",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image190.jpg",
-    "name": "Señora Sara Concha Smith",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image191.jpg",
-    "name": "Señora María Luisa Cordero Velásquez",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image197.jpg",
-    "name": "Señor Felipe Donoso Castro",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image198.jpg",
-    "name": "Señor Jorge Durán Espinoza",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image200.jpg",
-    "name": "Señora Camila Flores Oporto",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image202.jpg",
-    "name": "Señor Juan Fuenzalida Cobo",
     "cargo": "Diputado de la República"
   },
   {
@@ -780,113 +245,8 @@ export const autoridades = [
     "cargo": "Diputada de la República"
   },
   {
-    "image": "image204.jpg",
-    "name": "Señor Andrés Giordano Salazar",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image205.jpg",
-    "name": "Señor Félix González Gatica",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image206.jpg",
-    "name": "Señora Marta González Olea",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image207.jpg",
-    "name": "Señor Jorge Guzmán Zepeda",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image209.jpg",
-    "name": "Señor Mauro González Villarroel",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image210.jpg",
-    "name": "Señor Tomás Hirsch Goldschmidt",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image211.jpg",
-    "name": "Señor Diego Ibáñez Cotroneo",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image212.jpg",
-    "name": "Señor Marcos Ilabaca Cerda",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image213.jpg",
-    "name": "Señor Juan Irarrázaval Rossel",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image214.jpg",
-    "name": "Señora Pamela Jiles Moreno",
-    "cargo": "Diputada de La República"
-  },
-  {
     "image": "image217.jpg",
     "name": "Señor Johannes Kaiser Barents-Von Hohenhagen",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image218.jpg",
-    "name": "Señor Cristian Labbé Martínez",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image219.jpg",
-    "name": "Señora Paula Labra Besserer",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image221.jpg",
-    "name": "Señor Joaquín Lavín León",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image223.jpg",
-    "name": "Señor Enrique Lee Flores",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image224.jpg",
-    "name": "Señor Raúl Leiva Carvajal",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image225.jpg",
-    "name": "Señor Daniel Lilayu Vivanco",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image226.jpg",
-    "name": "Señor Andrés Longton Herrera",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image228.jpg",
-    "name": "Señor Daniel Manouchehri Lobos",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image229.jpg",
-    "name": "Señor Cristóbal Martínez Ramírez",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image230.jpg",
-    "name": "Señora Carolina Marzán Pinto",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image234.jpg",
-    "name": "Señor Miguel Mellado Suazo",
     "cargo": "Diputado de la República"
   },
   {
@@ -895,139 +255,9 @@ export const autoridades = [
     "cargo": "Diputado de la República"
   },
   {
-    "image": "image236.jpg",
-    "name": "Señor José Carlos Meza Pereira",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image237.jpg",
-    "name": "Señor Vlado Mirosevic Verdugo",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image238.jpg",
-    "name": "Señora Claudia Mix Jiménez",
-    "cargo": "Diputada de La República"
-  },
-  {
     "image": "image239.jpg",
     "name": "Señora Helia Molina Milman",
     "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image240.jpg",
-    "name": "Señora Javiera Morales Alvarado",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image241.jpg",
-    "name": "Señora Carla Morales Maldonado",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image242.jpg",
-    "name": "Señor Christian Moreira Barros",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image243.jpg",
-    "name": "Señor Benjamín Moreno Bascur",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image244.jpg",
-    "name": "Señor Jaime Mulet Martínez",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image245.jpg",
-    "name": "Señora Francesca Muñoz González",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image246.jpg",
-    "name": "Señora Camila Musante Müller",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image247.jpg",
-    "name": "Señor Jaime Naranjo Ortiz",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image248.jpg",
-    "name": "Señora Gloria Naveillan Arriagada",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image249.jpg",
-    "name": "Señora Emilia Nuyado Ancapichún",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image250.jpg",
-    "name": "Señora Ericka Ñanco Vásquez",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image252.jpg",
-    "name": "Señora Erika Olivera de la Fuente",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image253.jpg",
-    "name": "Señora Maite Orsini Pascal",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image254.jpg",
-    "name": "Señora Ximena Ossandón Irarrázabal",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image255.jpg",
-    "name": "Señor Rubén Darío Oyarzo Figueroa",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image256.jpg",
-    "name": "Señor Hernán Palma Pérez",
-    "cargo": "Diputado de La República"
-  },
-  {
-    "image": "image257.jpg",
-    "name": "Señora Marlene Pérez Cartes",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image258.jpg",
-    "name": "Señora Joanna Pérez Olea",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image259.jpg",
-    "name": "Señora Catalina Pérez Salinas",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image260.jpg",
-    "name": "Señor Víctor Alejandro Pino Fuentes",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image261.jpg",
-    "name": "Señora Lorena Pizarro Sierra",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image262.jpg",
-    "name": "Señora Alejandra Placencia Cabello",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image263.jpg",
-    "name": "Señor Francisco Pulgar Castillo",
-    "cargo": "Diputado de la República"
   },
   {
     "image": "image264.jpg",
@@ -1035,79 +265,9 @@ export const autoridades = [
     "cargo": "Diputado de la República"
   },
   {
-    "image": "image265.jpg",
-    "name": "Señor Matías Ramírez Pascal",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image266.jpg",
-    "name": "Señora Marcia Raphael Mora",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image267.jpg",
-    "name": "Señor Jorge Rathgeb Schifferli",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image268.jpg",
-    "name": "Señor Hugo Rey Martínez",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image269.jpg",
-    "name": "Señora Marcela Riquelme Aliaga",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image271.jpg",
-    "name": "Señor Agustín Romero Leiva",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image274.jpg",
-    "name": "Señor Patricio Rosas Barrientos",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image275.jpg",
-    "name": "Señor Jaime Sáez Quiroz",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image277.jpg",
-    "name": "Señora Clara Sagardia Cabezas",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image278.jpg",
-    "name": "Señor Luis Sánchez Ossa",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image279.jpg",
-    "name": "Señor Juan Santana Castillo",
-    "cargo": "Diputado de la República"
-  },
-  {
     "image": "image280.jpg",
     "name": "Señora Marisela Santibáñez Novoa",
     "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image281.jpg",
-    "name": "Señor Frank Sauerbaum Muñoz",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image282.jpg",
-    "name": "Señor Diego Schalper Sepúlveda",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image285.jpg",
-    "name": "Señor Alexis Sepúlveda",
-    "cargo": "Cámara de Diputados"
   },
   {
     "image": "image286.jpg",
@@ -1120,89 +280,14 @@ export const autoridades = [
     "cargo": "Diputado de la República"
   },
   {
-    "image": "image288.jpg",
-    "name": "Señor Raul Soto Mardones",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image289.jpg",
-    "name": "Señor Marco Antonio Sulantay Olivares",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image290.jpg",
-    "name": "Señor Cristián Tapia Ramos",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image291.jpg",
-    "name": "Señor Hotuiti Teao Drago",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image293.jpg",
-    "name": "Señor Renzo Trisotti Martínez",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image294.jpg",
-    "name": "Señor Héctor Ulloa Aguilera",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image295.jpg",
-    "name": "Señor Francisco Undurraga Gazitúa",
-    "cargo": "Diputado de la República"
-  },
-  {
     "image": "image296.jpg",
     "name": "Señor Alberto Undurraga Vicuña",
     "cargo": "Diputado de la República"
   },
   {
-    "image": "image297.jpg",
-    "name": "Señor Cristóbal Urruticoechea Ríos",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image298.jpg",
-    "name": "Señora Consuelo Veloso Ávila",
-    "cargo": "Diputada de La República"
-  },
-  {
     "image": "image299.jpg",
     "name": "Señor Nelson Venegas Salazar",
     "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image300.jpg",
-    "name": "Señor Sebastián Videla Castillo",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image301.jpg",
-    "name": "Señor Gastón Von Mühlenbrock Zamora",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image302.jpg",
-    "name": "Señora Flor Weisse Novoa",
-    "cargo": "Diputada de La República"
-  },
-  {
-    "image": "image303.jpg",
-    "name": "Señor Gonzalo Winter Etcheverry",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image304.jpg",
-    "name": "Señora Gael Yeomans Araya",
-    "cargo": "Diputado de la República"
-  },
-  {
-    "image": "image305.jpg",
-    "name": "Señor Osvaldo Pizarro Quezada",
-    "cargo": "Defensor Nacional (S)"
   },
   {
     "image": "image306.jpg",
@@ -1225,24 +310,24 @@ export const autoridades = [
     "cargo": "Subsecretaria de Hacienda"
   },
   {
-    "image": "image314.jpg",
-    "name": "Señor Nicol á s Facuse Vásquez",
-    "cargo": "Subsecretario de la Secretaría General de la Presidencia"
-  },
-  {
     "image": "image315.jpg",
     "name": "Señor Erwin Díaz Asenjo",
     "cargo": "Subsecretario de la Secretaría General de Gobierno"
   },
   {
-    "image": "image317.jpg",
-    "name": "Señor Julio Salas Gutiérrez",
-    "cargo": "Subsecretario de Pesca y Acuicultura"
+    "image": "image316.jpg",
+    "name": "Señora Javiera Petersen Muga",
+    "cargo": "Subsecretaria de Economía y Empresas de Menor Tamaño"
   },
   {
-    "image": "image320.jpg",
-    "name": "Señora Francisca Gallegos Jara",
-    "cargo": "Subsecretaria de Servicios Sociales"
+    "image": "image318.jpg",
+    "name": "Señora Verónica Pardo Lagos",
+    "cargo": "Subsecretaria de Turismo"
+  },
+  {
+    "image": "image322.jpg",
+    "name": "Señora Alejandra Arratia Martínez",
+    "cargo": "Subsecretaria de Educación"
   },
   {
     "image": "image323.jpg",
@@ -1258,16 +343,6 @@ export const autoridades = [
     "image": "image325.jpg",
     "name": "Señor Ernesto Muñoz Lamartine",
     "cargo": "Subsecretario de Justicia"
-  },
-  {
-    "image": "image326.jpg",
-    "name": "Señora Daniela Quintanilla Mateff",
-    "cargo": "Subsecretaria de Derechos Humanos"
-  },
-  {
-    "image": "image327.jpg",
-    "name": "Señor Pablo Chacón Cancino",
-    "cargo": "Subsecretario del Trabajo"
   },
   {
     "image": "image328.jpg",
@@ -1290,16 +365,6 @@ export const autoridades = [
     "cargo": "Subsecretaria de Vivienda y Urbanismo"
   },
   {
-    "image": "image333.jpg",
-    "name": "Señor Alan Espinoza Ortiz",
-    "cargo": "Subsecretario de Agricultura"
-  },
-  {
-    "image": "image334.jpg",
-    "name": "Señora Suina Chahuán Kim",
-    "cargo": "Subsecretaria de Minería"
-  },
-  {
     "image": "image335.jpg",
     "name": "Señor Jorge Daza Lobos",
     "cargo": "Subsecretario de Transportes"
@@ -1320,16 +385,6 @@ export const autoridades = [
     "cargo": "Subsecretario de Energía"
   },
   {
-    "image": "image339.jpg",
-    "name": "Señor Maximiliano Proaño Ugalde",
-    "cargo": "Subsecretario de Medio Ambiente"
-  },
-  {
-    "image": "image340.jpg",
-    "name": "Señor Álvaro Ipinza Torres",
-    "cargo": "Subsecretario del Deporte (S)"
-  },
-  {
     "image": "image341.jpg",
     "name": "Señora Claudia Donaire Gaete",
     "cargo": "Subsecretaria de la Mujer y Equidad de Género"
@@ -1340,11 +395,6 @@ export const autoridades = [
     "cargo": "Subsecretaria de Patrimonio Cultural"
   },
   {
-    "image": "image344.jpg",
-    "name": "Señor Cristian Cuevas Vega",
-    "cargo": "Subsecretario de Ciencias, Tecnólogía , Conocimiento e Innovación"
-  },
-  {
     "image": "image345.jpg",
     "name": "Señor Claudio Orrego Larraín",
     "cargo": "Gobernador Región Metropolitana"
@@ -1353,21 +403,6 @@ export const autoridades = [
     "image": "image346.jpg",
     "name": "Señor Gonzalo Durán Baronti",
     "cargo": "Delegado Presidencia de la Región Metropolitana"
-  },
-  {
-    "image": "image348.jpg",
-    "name": "Señor General de División Rodrigo Pino Riquelme",
-    "cargo": "Jefe del Estado Mayor General del Ejército"
-  },
-  {
-    "image": "image349.jpg",
-    "name": "Señor Vicealmirante Raúl Zamorano Goñi",
-    "cargo": "Jefe del Estado Mayor General de la Armada"
-  },
-  {
-    "image": "image350.jpg",
-    "name": "Señor General Inspector Enrique Monrás Álvarez",
-    "cargo": "General Subdirector Carabineros de Chile"
   },
   {
     "image": "image351.jpg",
@@ -1390,11 +425,6 @@ export const autoridades = [
     "cargo": "Alcalde Ilustre Municipalidad de Puente Alto"
   },
   {
-    "image": "image356.jpg",
-    "name": "Señor Roberto Pérez Catalán",
-    "cargo": "Alcalde Ilustre Municipalidad de San José de Maipo"
-  },
-  {
     "image": "image357.jpg",
     "name": "Señor Olivier Mellado Rodríguez",
     "cargo": "Concejal Ilustre Municipalidad de Puente Alto"
@@ -1402,16 +432,6 @@ export const autoridades = [
   {
     "image": "image358.jpg",
     "name": "Sra./ita Denisse Carvalho Carvallo",
-    "cargo": "Concejal Ilustre Municipalidad de Puente Alto"
-  },
-  {
-    "image": "image359.jpg",
-    "name": "Señor Andrés Codina Power",
-    "cargo": "Concejal Ilustre Municipalidad de Puente Alto"
-  },
-  {
-    "image": "image360.jpg",
-    "name": "Sra./ ita Pola Montoya Videla",
     "cargo": "Concejal Ilustre Municipalidad de Puente Alto"
   },
   {
@@ -1435,19 +455,9 @@ export const autoridades = [
     "cargo": "Concejal Ilustre Municipalidad de Puente Alto"
   },
   {
-    "image": "image365.jpg",
-    "name": "Sra./ ita Constanza Maldonado Martínez",
-    "cargo": "Concejal Ilustre Municipalidad de Puente Alto"
-  },
-  {
     "image": "image366.jpg",
     "name": "Sr. Víctor Manuel Castro Fredes",
     "cargo": "Concejal Ilustre Municipalidad de Puente Alto"
-  },
-  {
-    "image": "image367.jpg",
-    "name": "Sra./ ita Valeria Ortega Contreras",
-    "cargo": "Consejera Reg. Metro."
   },
   {
     "image": "image368.jpg",
@@ -1460,33 +470,8 @@ export const autoridades = [
     "cargo": "Delegada Presidencial Provincia Cordillera"
   },
   {
-    "image": "image370.jpg",
-    "name": "Señor Bastían Alarcón Atenas",
-    "cargo": "Delegada Presidencial Provincial de Melipilla"
-  },
-  {
-    "image": "image371.jpg",
-    "name": "Señora Stephanie Duarte Moreno",
-    "cargo": "Delegada Presidencial Provincial de Talagante"
-  },
-  {
-    "image": "image372.jpg",
-    "name": "Señor Andrés Hidalgo Leiva",
-    "cargo": "Delegado Presidencial Provincial de Chacabuco"
-  },
-  {
     "image": "image373.jpg",
     "name": "Señor Mauricio Orrego Saavedra",
     "cargo": "Delegado Presidencial Provincial de Maipo"
-  },
-  {
-    "image": "image374.jpg",
-    "name": "Señor General de División Pedro Varela Sabando",
-    "cargo": "Comandante de Operaciones Terrestres Ejército de Chile"
-  },
-  {
-    "image": "image375.jpg",
-    "name": "Señora Prefecta General Consuelo Peña San Miguel",
-    "cargo": "Subdirectora de Inteligencia, Crimen Organizado y Seguridad Migratoria Policía de Investigaciones de Chile"
   }
 ];
